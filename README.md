@@ -1,2 +1,2 @@
-# softlink.github
+# softlink.github.io
 Curriculum Vitae
